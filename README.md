@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex)
