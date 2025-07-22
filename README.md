@@ -17,7 +17,6 @@ I’m currently pursuing a degree in Artificial Intelligence Engineering, with a
 ## My Skills Include
 
 <h3>Main Languages and Tools</h3>
-<h4>Frontend</h4>
 <span>
   <h4>Frontend</h4>
 
