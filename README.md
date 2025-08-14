@@ -55,9 +55,11 @@ I’m currently pursuing a degree in Artificial Intelligence Engineering, with a
 
 
 <span>
-  <h4>Machine Learning</h4>
+  <h4>AI / Machine Learning</h4>
 
-  <!-- Frameworks -->
+  <!-- Frameworks and AI libraries-->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
