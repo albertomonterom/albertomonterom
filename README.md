@@ -1,18 +1,20 @@
 <h1 align="center"><b>Hi, I'm Alberto</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-💼 AI Engineering Student | Machine Learning & Data Science Enthusiast
+💼 AI Engineering Student | Machine Learning & Data Engineering
 
-I’m currently pursuing a degree in Artificial Intelligence Engineering, with a strong passion for machine learning, data science, and solving real-world problems through technology. I had the opportunity to contribute as a Research Intern at UCSD, where I gained hands-on experience in applied research and collaborative development.
+I’m currently pursuing a degree in Artificial Intelligence Engineering, focused on building practical machine learning and data-driven systems.
 
-- 🧠 Passionate about turning data into insights and building intelligent systems that make a difference.
+I have experience in applied research and industry-oriented projects, including a research internship at UC San Diego, where I worked on machine learning workflows for clinical oncology using real-world RNA-seq data.
 
-- 🔍 Constantly exploring software best practices, model evaluation techniques, and research-backed development.
+My main technical interests include:
+- Machine Learning & Deep Learning
+- Data Engineering & ETL pipelines
+- Large Language Models (LLMs)
+- Applied AI systems and model evaluation
 
-- 🤝 Looking to collaborate on AI/ML-driven projects that have tangible impact.
+I enjoy working on projects that turn complex data into actionable insights and scalable solutions.
 
-- 💬 Open to connecting, mentoring, and contributing to innovative teams.
-
-- 🎮 Outside of tech, I enjoy gaming and reading to keep growing personally and creatively.
+🎮 Outside of tech, I enjoy gaming and reading.
 
 ## My Skills Include
 
