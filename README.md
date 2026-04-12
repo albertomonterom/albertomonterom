@@ -116,6 +116,5 @@ I enjoy working on projects that turn complex data into actionable insights and 
 <h2>Github stats:</h2> 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertomonterom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertomonterom&theme=tokyonight&hide_border=true" style="max-width: 100%;"/>
 </div>
