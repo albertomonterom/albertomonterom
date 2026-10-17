@@ -1,4 +1,5 @@
-<img align="right" width="340" src="https://media1.tenor.com/m/rKFTCqlHF2YAAAAd/toji-toji-fushiguro.gif" alt="Toji Fushiguro GIF">
+<img align="right" width="340" src="https://media1.tenor.com/m/D-L-rn8gU8UAAAAd/megumi-sad-megumi.gif" alt="Megumi Fushiguro GIF">
+
 
 <h3 align="center">Hi, I'm Alberto 👋</h3>
 
