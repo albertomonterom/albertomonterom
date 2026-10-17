@@ -1,14 +1,17 @@
 <img align="right" width="340" src="https://media1.tenor.com/m/rKFTCqlHF2YAAAAd/toji-toji-fushiguro.gif" alt="Toji Fushiguro GIF">
 
-<h1 align="center">Hi, I'm Alberto 👋</h1>
+<h3 align="center">Hi, I'm Alberto 👋</h3>
 
 <p align="center">
-  <b>SDE Intern @ Amazon</b> | <b>AI Engineering Student @ IPN</b>
+  <b>SDE Intern @ Amazon</b><br>
+  <b>AI Engineering Student @ IPN</b>
 </p>
 
 <p align="center">
   Software Engineering · Distributed Systems · Machine Learning
 </p>
+
+<br clear="all">
 
 ## Languages & Tools
 
