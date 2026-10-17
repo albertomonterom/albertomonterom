@@ -105,7 +105,7 @@ I enjoy working on projects that turn complex data into actionable insights and 
 
 ## Check out my Social Media
 
-<a href= "https://www.linkedin.com/in/alberto-montero-molina-412b3a249/">
+<a href= "https://www.linkedin.com/in/albertomonte/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin">
 </a>
 
