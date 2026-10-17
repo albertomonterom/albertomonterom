@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3RueDV2bGczYnEyM3N2OG9qNG16cHU4NHM4dHN2ZGFyNTN1emtoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7kpGVMy90GtOY1qFQQ/giphy.gif" width="400" alt="Animated banner">
+  <img src="https://tenor.com/view/toji-toji-fushiguro-fushiguro-toji-jjk-jujutsu-kaisen-toji-gif-12439314951028807526" width="400" alt="Animated banner">
 </p>
 
 <h1 align="center">Hi, I'm Alberto 👋</h1>
