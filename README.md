@@ -1,120 +1,116 @@
-<h1 align="center"><b>Hi, I'm Alberto</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-💼 AI Engineering Student | Machine Learning & Data Engineering
+<h1 align="center">
+  Hi, I'm Alberto
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-I’m currently pursuing a degree in Artificial Intelligence Engineering, focused on building practical machine learning and data-driven systems.
+<p align="center">
+  <b>Software Development Engineer Intern @ Amazon</b> |
+  <b>AI Engineering Student @ IPN</b>
+</p>
 
-I have experience in applied research and industry-oriented projects, including a research internship at UC San Diego, where I worked on machine learning workflows for clinical oncology using real-world RNA-seq data.
+<p align="center">
+  <a href="https://www.linkedin.com/in/albertomonte/">LinkedIn</a> •
+  <a href="https://albertomontero.vercel.app">Portfolio</a> •
+  <a href="mailto:monteromolinaalberto@gmail.com">Email</a>
+</p>
 
-My main technical interests include:
-- Machine Learning & Deep Learning
-- Data Engineering & ETL pipelines
-- Large Language Models (LLMs)
-- Applied AI systems and model evaluation
+## 👨‍💻 About Me
 
-I enjoy working on projects that turn complex data into actionable insights and scalable solutions.
+I'm currently a **Software Development Engineer Intern at Amazon** and an **Artificial Intelligence Engineering student at Instituto Politécnico Nacional (ESCOM)**.
+
+My experience spans **Software Engineering, Machine Learning, Data Engineering, and AI Research**, including internships at **Teradata, UC San Diego, MBZUAI, and the University of Toronto**.
+
+I enjoy building scalable systems, working with distributed technologies, and applying machine learning to real-world problems.
+
+### 🚀 Highlights
+
+- **Teradata:** Automated 8 internal AI workflows using Python, SQL, and n8n, reducing manual processing time by 30%.
+- **MBZUAI:** Worked on vision-language models for medical image classification, achieving 0.6637 macro balanced accuracy. Part of the team recognized with the UGRIP 2026 Best Project Award.
+- **UC San Diego:** Developed machine learning workflows for pediatric CNS tumor classification using RNA-seq data from 1,791 samples.
+- **University of Toronto:** Worked on data processing and analysis for public-health surveillance research.
 
 🎮 Outside of tech, I enjoy gaming and reading.
 
-## My Skills Include
+## 🛠️ Technical Skills
 
-<h3>Main Languages and Tools</h3>
-<span>
-  <h4>Frontend</h4>
+### Programming Languages
 
-  <!-- Frameworks / Libraries -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### Backend & Data Engineering
 
-  <!-- Styling Frameworks -->
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-  <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</span>
+### AI / Machine Learning
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=langchain&logoColor=white)
 
-<span>
-  <h4>Backend</h4>
-  
-  <!-- Runtimes / Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-</span>
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<span>
-  <h4>AI / Machine Learning</h4>
+### Cloud, DevOps & Tools
 
-  <!-- Frameworks and AI libraries-->
-  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-  <!-- Libraries -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
+## 🚀 Featured Projects
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</span>
+### Real-Time Card Fraud Detector
 
+Built a real-time fraud detection pipeline using **Kafka, Spark Structured Streaming, XGBoost, Redis, and PostgreSQL**.
 
-<span>
-  <h4>DevOps & Tools</h4>
+- Trained an XGBoost model on **1.85M transactions** with 17 engineered features.
+- Achieved **91.6% recall** and **0.933 PR-AUC** on an imbalanced dataset.
+- Developed Fraud Sentinel, a live fraud monitoring dashboard with Prometheus and Grafana integration.
 
-  <!-- Version Control & CI/CD -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+### Check-In Champions | Hack the 6ix 2026 🏆
 
-  <!-- OS / Terminal -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+**Stay22 Sponsor Track Winner**
 
-  <!-- Communication & PM -->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-</span>
+Built an AI-powered, gamified travel discovery platform combining personalized hotel recommendations with live accommodation data.
 
+- Developed a Monte Carlo recommendation engine using **5,000 simulations**.
+- Integrated **Stay22, Gemini, and ElevenLabs APIs** for hotel comparisons, AI-generated commentary, and booking links.
 
-<span>
-  <h4>Others</h4>
+## 🌐 Connect With Me
 
-  <!-- Tools & Languages -->
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
-</span>
-
-
-## Check out my Social Media
-
-<a href= "https://www.linkedin.com/in/albertomonte/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin">
+<a href="https://www.linkedin.com/in/albertomonte/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://albertomontero.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:monteromolinaalberto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=white"  alt="Portfolio">
-</a>
+## 📊 GitHub Stats
 
-<h2>Github stats:</h2> 
-
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh; width: 100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertomonterom&theme=tokyonight&hide_border=true" style="max-width: 100%;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertomonterom&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
