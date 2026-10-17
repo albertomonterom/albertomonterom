@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media1.tenor.com/m/CB_RiWgmvuIAAAAd/ashita-no-joe-joe-yabuki.gif" width="600" alt="Ashita no Joe animated banner">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3RueDV2bGczYnEyM3N2OG9qNG16cHU4NHM4dHN2ZGFyNTN1emtoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7kpGVMy90GtOY1qFQQ/giphy.gif" width="600" alt="Animated banner">
 </p>
 
 <h1 align="center">Hi, I'm Alberto 👋</h1>
