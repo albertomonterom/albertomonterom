@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://tenor.com/view/toji-toji-fushiguro-fushiguro-toji-jjk-jujutsu-kaisen-toji-gif-12439314951028807526" width="400" alt="Animated banner">
-</p>
+<img align="right" width="340" src="https://media1.tenor.com/m/rKFTCqlHF2YAAAAd/toji-toji-fushiguro.gif" alt="Toji Fushiguro GIF">
 
 <h1 align="center">Hi, I'm Alberto 👋</h1>
 
